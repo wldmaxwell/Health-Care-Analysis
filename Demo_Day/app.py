@@ -14,6 +14,26 @@ def home():
     return render_template("dashboard.html")
 
 
+@app.route("/Dashboard2")
+def user():
+
+    # Return template and data
+    return render_template("dashboard2.html")
+
+
+@app.route("/Table")
+def table():
+
+    # Return template and data
+    return render_template("table.html")
+
+@app.route("/Maps")
+def maps():
+
+    # Return template and data
+    return render_template("maps.html")
+
+
 
 
 
