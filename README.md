@@ -54,7 +54,7 @@ Inefficient Care Delivery Inefficient care delivery is another key driver of U.S
 
  		 
 
-![image alt text](image_0.png)![image alt text](image_1.png)![image alt text](image_2.png)
+![image alt text](image_6.png)![image alt text](image_1.png)![image alt text](image_2.png)
 
 ![image alt text](image_3.png)
 
